@@ -1,0 +1,15 @@
+C:\Users\Анатолий\Desktop\git\Example\dz_36\obj\Debug\net7.0\dz_36.csproj.AssemblyReference.cache
+C:\Users\Анатолий\Desktop\git\Example\dz_36\obj\Debug\net7.0\dz_36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анатолий\Desktop\git\Example\dz_36\obj\Debug\net7.0\dz_36.AssemblyInfoInputs.cache
+C:\Users\Анатолий\Desktop\git\Example\dz_36\obj\Debug\net7.0\dz_36.AssemblyInfo.cs
+C:\Users\Анатолий\Desktop\git\Example\dz_36\obj\Debug\net7.0\dz_36.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\Desktop\git\Example\dz_36\bin\Debug\net7.0\dz_36.exe
+C:\Users\Анатолий\Desktop\git\Example\dz_36\bin\Debug\net7.0\dz_36.deps.json
+C:\Users\Анатолий\Desktop\git\Example\dz_36\bin\Debug\net7.0\dz_36.runtimeconfig.json
+C:\Users\Анатолий\Desktop\git\Example\dz_36\bin\Debug\net7.0\dz_36.dll
+C:\Users\Анатолий\Desktop\git\Example\dz_36\bin\Debug\net7.0\dz_36.pdb
+C:\Users\Анатолий\Desktop\git\Example\dz_36\obj\Debug\net7.0\dz_36.dll
+C:\Users\Анатолий\Desktop\git\Example\dz_36\obj\Debug\net7.0\refint\dz_36.dll
+C:\Users\Анатолий\Desktop\git\Example\dz_36\obj\Debug\net7.0\dz_36.pdb
+C:\Users\Анатолий\Desktop\git\Example\dz_36\obj\Debug\net7.0\dz_36.genruntimeconfig.cache
+C:\Users\Анатолий\Desktop\git\Example\dz_36\obj\Debug\net7.0\ref\dz_36.dll
