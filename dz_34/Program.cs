@@ -3,7 +3,7 @@
 Напишите программу, которая покажет количество чётных чисел в массиве.[345, 897, 568, 234] -> 2  
 */
 Console.Write("Введите размерность массива: ");
-int size = Convert.ToInt32(Console.ReadLine()
+int size = Convert.ToInt32(Console.ReadLine());
 
 int [] numbers = new int[size];
 
@@ -18,19 +18,8 @@ for (int i = 0; i < numbers.Length; i++)
         result++;
     }
 }
-if (result % 10 == 1)
-{
-    Console.WriteLine($"В массиве {result} четное число");
-}
-if (result % 10 == 2 || result % 10 == 3 || result % 10 == 4)
-{
-    Console.WriteLine($"В массиве {result} четных числа");
-}
-else
+Console.WriteLine($"-> {result}");
 
-    Console.WriteLine($"В массиве {result} четных чисел");
-
-// Методы
 void FillArrayRandomNumbers(int [] array) //Заполнение массива
 {
     for (int i = 0; i < array.Length; i++)
@@ -45,6 +34,5 @@ void PrintArray(int[] array) //Вывод массива на экран
     {
         Console.Write(array[i] + " ");
     }
-    Console.WriteLine();
 }
 
