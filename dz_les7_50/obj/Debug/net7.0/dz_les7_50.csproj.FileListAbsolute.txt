@@ -1,0 +1,15 @@
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\bin\Debug\net7.0\dz_les7_50.exe
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\bin\Debug\net7.0\dz_les7_50.deps.json
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\bin\Debug\net7.0\dz_les7_50.runtimeconfig.json
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\bin\Debug\net7.0\dz_les7_50.dll
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\bin\Debug\net7.0\dz_les7_50.pdb
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\obj\Debug\net7.0\dz_les7_50.csproj.AssemblyReference.cache
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\obj\Debug\net7.0\dz_les7_50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\obj\Debug\net7.0\dz_les7_50.AssemblyInfoInputs.cache
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\obj\Debug\net7.0\dz_les7_50.AssemblyInfo.cs
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\obj\Debug\net7.0\dz_les7_50.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\obj\Debug\net7.0\dz_les7_50.dll
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\obj\Debug\net7.0\refint\dz_les7_50.dll
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\obj\Debug\net7.0\dz_les7_50.pdb
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\obj\Debug\net7.0\dz_les7_50.genruntimeconfig.cache
+C:\Users\Анатолий\Desktop\git\Example\dz_les7_50\obj\Debug\net7.0\ref\dz_les7_50.dll
